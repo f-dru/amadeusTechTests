@@ -1,0 +1,9 @@
+# Data folder
+data/
+
+# GeoBases module
+.GeoBases.d/
+
+# IPython check points folder
+.ipynb_checkpoints/
+
